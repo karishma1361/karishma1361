@@ -1,4 +1,5 @@
- Hi,👋** I’m Karishma Anamalamuri**
+   **Hi👋
+ I’m Karishma Anamalamuri**
 - 👀 I’m interested in Data Analysis
 - 📒 I’m currently working on SQL,Power BI Reports
 - 💬 Ask me about Power BI, Excel, SQL, Data
