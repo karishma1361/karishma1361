@@ -1,8 +1,8 @@
- Hi,👋 I’m Karishma Anamalamuri
+ Hi,👋** I’m Karishma Anamalamuri**
 - 👀 I’m interested in Data Analysis
 - 📒 I’m currently working on SQL,Power BI Reports
 - 💬 Ask me about Power BI, Excel, SQL, Data
-- 💞️ I’m looking to collaborate on full time data Analyst/business Analyst and Analyst job roles.
+- 💞️ I’m looking to collaborate on full time data Analyst,business Analyst and Analyst job roles.
 - 📫 How to reach me E-mail:- akarishma1361@gmail.com,Linkedin:-https://www.linkedin.com/in/karishma-anamalamuri-5259b6243/
   
 
